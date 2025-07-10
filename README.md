@@ -30,7 +30,7 @@ Submitted to: [Kaggle Titanic Challenge](https://www.kaggle.com/competitions/tit
 
 I successfully submitted my predictions and entered the leaderboard!  
 **Entry Name:** Bhaskarjya Borgohain  
-**Position:** #11671  
+**Position:** #11661  
 **Score:** 0.76555
 
 ### 📸 Screenshot:
