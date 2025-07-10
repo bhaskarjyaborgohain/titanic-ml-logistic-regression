@@ -35,7 +35,7 @@ I successfully submitted my predictions and entered the leaderboard!
 
 ### 📸 Screenshot:
 
-![Kaggle Score](images/kaggle_score.png)  
+![Kaggle Score](images/kaggle_score.jpeg)  
 *My first entry on the Titanic leaderboard!*
 
 ---
