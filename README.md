@@ -26,4 +26,16 @@ Predict passenger survival on the Titanic using Logistic Regression.
 ## 📤 Submission
 Submitted to: [Kaggle Titanic Challenge](https://www.kaggle.com/competitions/titanic)
 
+## 🏆 Kaggle Submission Result
+
+I successfully submitted my predictions and entered the leaderboard!  
+**Entry Name:** Bhaskarjya Borgohain  
+**Position:** #11671  
+**Score:** 0.76555
+
+### 📸 Screenshot:
+
+![Kaggle Score](images/kaggle_score.png)  
+*My first entry on the Titanic leaderboard!*
+
 ---
